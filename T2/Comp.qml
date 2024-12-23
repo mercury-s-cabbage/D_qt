@@ -5,7 +5,7 @@ Rectangle {
     width: 300
     height: 100
     border.width: 1
-    color: Qt.rgba(Math.random(), Math.random(), Math.random(), 0.7)
+    color: "gray"
 
     property string text: ""
 
